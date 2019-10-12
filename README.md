@@ -1,3 +1,3 @@
 # PrimoJavaSocket
 pippo
-plutoTopolino  e minnie
+pluto mancava lo spazio Topolino  e minnie
